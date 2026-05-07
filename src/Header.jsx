@@ -1,7 +1,7 @@
 function Header(){
     return(
         <>
-        <h1>Welcome to my web</h1>
+        <h1 className="header-title">Welcome to my web</h1>
             <nav>
                 <ul>
                     <li><a href="#">Home</a></li>
