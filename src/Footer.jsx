@@ -1,6 +1,6 @@
 function Footer(){
     return (
-        <p>&copy;{new Date().getFullYear()} All Copyrights Reserved</p>
+        <p className="footer">&copy;{new Date().getFullYear()} All Copyrights Reserved</p>
     );
 }
 export default Footer;
