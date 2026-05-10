@@ -23,6 +23,7 @@ function App(){
     <Card name="iPhone 13 Pro" img={iPhone13Pro} text="This is my latest iPhone"/>
     <Card name="iPhone XR" img={iPhoneXR} text="This is my First iPhone"/>
     <Card name="Oppo A5s" img={oppo} text="This is my First Android"/>
+    <br/>
     <Clickevent/>
     <List phones={iphones} brand="iPhones"/>
     <List phones={androids} brand="Androids"/>

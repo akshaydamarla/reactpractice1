@@ -98,3 +98,16 @@
   cursor: pointer;
   transition: ease-in;
 }
+
+.clickevbuttons{
+  font-size: 1em;
+  background-color: rgb(255, 206, 9);
+  padding: 10px;
+  font-weight: bold;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.clickevbuttons:hover{
+  background-color: rgb(211, 212, 125);
+}
