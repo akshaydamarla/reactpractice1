@@ -116,3 +116,11 @@
 .clickevbuttons:hover{
   background-color: rgb(211, 212, 125);
 }
+
+.CartDisplay{
+  text-align: center;
+  font-size: 2.5em;
+  font-weight: bold;
+  background-color:cornflowerblue;
+
+}

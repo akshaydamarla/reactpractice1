@@ -1,3 +1,4 @@
+import AddCart from "./AddCart";
 import Card from "./Card";
 import Clickevent from "./Clickevent";
 import Footer from "./Footer";
@@ -24,7 +25,7 @@ function App(){
     <Card name="iPhone XR" img={iPhoneXR} text="This is my First iPhone"/>
     <Card name="Oppo A5s" img={oppo} text="This is my First Android"/>
     <br/>
-    <Clickevent/>
+    <AddCart/>
     <List phones={iphones} brand="iPhones"/>
     <List phones={androids} brand="Androids"/>
     <Phones/>
