@@ -1,6 +1,5 @@
 import AddCart from "./AddCart";
 import Card from "./Card";
-import Clickevent from "./Clickevent";
 import Footer from "./Footer";
 import Header from "./Header";
 import List from "./List";
